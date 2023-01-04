@@ -1,10 +1,7 @@
-# <p align="center">VTU-AI-ML-Lab-Programs-18CSL76-scheme</p>
-## <p align="center">AI and ML lab programs VTU 18 Scheme 18CSL76 Computer Science and Information Science 7th semester</p>
-
 ## <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
 ### <p align="center">LABORATORY</p>
 
-### <p align="center">SHORT VERSION CODES</p>
+## <p align="center">SHORT VERSION CODES</p>
 
 # Programs List:
 ### 1. Implement A* Search algorithm.
