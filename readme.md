@@ -1,7 +1,6 @@
-# <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
-## <p align="center">LABORATORY</p>
-
+# <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LABORATORY</p>
 ## <p align="center">SHORT AND EASY CODES</p>
+## Follow me on Github and Star ⭐ this Repo♥
 ### PROGRAM READING ORDER: 9,8,7,6,3,5,4,1,2
 
 # Programs List:
