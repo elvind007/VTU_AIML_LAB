@@ -1,7 +1,8 @@
-## <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
-### <p align="center">LABORATORY</p>
+# <p align="center">ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</p>
+## <p align="center">LABORATORY</p>
 
-## <p align="center">SHORT VERSION CODES</p>
+## <p align="center">SHORT AND EASY CODES</p>
+### PROGRAM READING ORDER: 9,8,7,6,3,5,4,1,2
 
 # Programs List:
 ### 1. Implement A* Search algorithm.
