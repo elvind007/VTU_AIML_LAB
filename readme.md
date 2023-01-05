@@ -62,3 +62,5 @@
 ### Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set. Print both correct and wrong predictions. Java/Python ML library classes can be used for this problem.
 
 ### Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=elvind007.visitor-badge)
